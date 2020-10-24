@@ -1,0 +1,2 @@
+# Stock-Market-Sentiment-Analysis-Using-AI
+ Project  Stock Market Sentiment Analysis Using AI Oct 2020 – Nov 2020  Project descriptionThis is a NLP Based sentiment analysis project in which I have tried to do sentiment analysis on stock market dataset. In this you will find that I have tried to use Machine Learning models on the data set and then used RNN model for a better accuracy. My codes show that RNN model give more strong accuracy .
